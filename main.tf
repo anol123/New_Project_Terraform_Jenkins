@@ -8,8 +8,8 @@ terraform {
    required_version = ">= 1.2.0"
 }
 provider "aws" {
-    access_key = "var.AWS_ACCESS_KEY"
-    secret_key = "var.AWS_SECRET_KEY"
+    access_key = "ASIAR5BGBJPSYVDPNW7B"
+    secret_key = "wBAknYEb2ersyOr1FrlslJ8jWCVsRS8PHLycDI6A"
     region = "ap-south-1"
 }
 
